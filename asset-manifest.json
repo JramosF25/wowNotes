@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JramosF25/wowNotes.git/static/css/main.5dc47232.css",
-    "main.js": "/JramosF25/wowNotes.git/static/js/main.f971452b.js",
-    "index.html": "/JramosF25/wowNotes.git/index.html",
-    "main.5dc47232.css.map": "/JramosF25/wowNotes.git/static/css/main.5dc47232.css.map",
-    "main.f971452b.js.map": "/JramosF25/wowNotes.git/static/js/main.f971452b.js.map"
+    "main.css": "/wowNotes/static/css/main.5dc47232.css",
+    "main.js": "/wowNotes/static/js/main.f971452b.js",
+    "index.html": "/wowNotes/index.html",
+    "main.5dc47232.css.map": "/wowNotes/static/css/main.5dc47232.css.map",
+    "main.f971452b.js.map": "/wowNotes/static/js/main.f971452b.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc47232.css",
